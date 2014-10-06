@@ -1,0 +1,30 @@
+
+
+Started GET "/" for 127.0.0.1 at 2012-06-13 10:43:20 -0400
+
+SQLite3::CantOpenException (unable to open database file):
+  
+
+Rendered /home/jax/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.1.4/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.1ms)
+Rendered /home/jax/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.1.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.2ms)
+Rendered /home/jax/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.1.4/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (16.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-06-15 10:20:43 -0400
+
+SQLite3::CantOpenException (unable to open database file):
+  
+
+Rendered /home/jax/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.1.4/lib/action_dispatch/middleware/templates/rescues/_trace.erb (0.8ms)
+Rendered /home/jax/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.1.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.0ms)
+Rendered /home/jax/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.1.4/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (10.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-07-18 16:04:52 -0400
+
+SQLite3::CantOpenException (unable to open database file):
+  
+
+Rendered /home/jax/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.1.4/lib/action_dispatch/middleware/templates/rescues/_trace.erb (0.9ms)
+Rendered /home/jax/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.1.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.1ms)
+Rendered /home/jax/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.1.4/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (10.6ms)
